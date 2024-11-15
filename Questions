@@ -1,0 +1,9 @@
+Where are the .log file ?
+They in "/var/log/usb_monitor.log"
+
+What does this programm record ?
+It's record when : A USB Device is plugt in; A USB Device is plugt out.
+
+Is this tool privat ?
+Yes, I don't want to have your datas :-D
+
